@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="img/github-header-image.png"  />
-</div>
+
 
 ###
 
